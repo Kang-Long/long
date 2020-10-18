@@ -1,0 +1,27 @@
+.fs-menu {
+    margin-top: 10px;
+    height: 470px;
+    background-color: #fff;
+    color: #000 !important;
+    padding: 10px 0;
+    box-sizing: border-box;
+}
+
+.fs-menu li {
+    height: 25px;
+    line-height: 25px;
+    padding-left: 18px;
+    font-size: 14px;
+}
+
+.fs-menu li:hover {
+    background-color: #ddd;
+}
+
+.fs-menu li a {
+    color: #333;
+}
+
+.fs-menu li a:hover {
+    color: #e1251b;
+}
